@@ -34,8 +34,7 @@ const Users = db.define('users',
   timestamps: false
 })
 
-
 // Users.sync({ alter: true }).then(() => console.log('Users table created or modified'));
 //! Table creation. Uncomment to create table
 
-module.exports = Users
+module.exports = Users``

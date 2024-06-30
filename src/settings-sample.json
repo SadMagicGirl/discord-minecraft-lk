@@ -1,0 +1,38 @@
+{
+    "discord": {
+      "token": "",
+      "guild_id": "",
+      "bot_id": ""
+    },
+    "sql": {
+      "ip": "",
+      "port": "",
+      "bd_name": "",
+      "user": "",
+      "pass": "",
+      "logging": false
+    },
+    "skins" : {
+      "path": "./skins"
+    },
+    "cloaks" : {
+      "path": "./cloaks"
+    },
+    "misc": {
+      "password_length": 10,
+      "role_name": "Minecraft Player",
+      "role_color": "#00f0a3",
+      "avalible_skin_sizes": [
+        "64x64",
+        "128x128",
+        "256x256",
+        "512x512",
+        "64x32",
+        "128x64",
+        "256x128",
+        "512x256"
+      ]
+    },
+    "admin": ["380011768929452032"]
+  }
+  
